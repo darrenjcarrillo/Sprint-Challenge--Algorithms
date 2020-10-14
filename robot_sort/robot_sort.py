@@ -118,7 +118,7 @@ class SortingRobot:
             self.move_left()
 
         self.swap_item()
-        # self.move_right()
+        self.move_right()
         self.sort()
 
 
